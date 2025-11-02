@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['crack']
+
+roboflow:
+  workspace: project1227-jfgex
+  project: sun-lycwv
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project1227-jfgex/sun-lycwv/dataset/1
